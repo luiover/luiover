@@ -1,4 +1,4 @@
-- 👋 Hi, I’m __lui__!
+# 👋 Hi, I’m __lui__!
 - 👀 I’m interested in __becoming a full-stack Web Developer__!
 - 🌱 I’m currently learning __Web Development__
 - 😄 Pronouns: __he/him__
